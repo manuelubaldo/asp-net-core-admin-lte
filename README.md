@@ -1,6 +1,8 @@
 # asp-net-core-admin-lte
 ASP.NET Core AdminLTE Project Template
 
+![Image of AdminLTE](https://raw.githubusercontent.com/manuelubaldo/asp-net-core-admin-lte/master/screenshot.png)
+
 # Installation
 ```
 $ git clone https://github.com/manuelubaldo/asp-net-core-admin-lte.git
